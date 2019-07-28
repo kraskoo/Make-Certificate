@@ -9,4 +9,4 @@ Certutil -addStore TrustedPeople "D:\User\Desktop\Name Of Project.cer"
 Certutil -store TrustedPeople
 
 ## Requirements
-[Windows Development Kit](https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk)
+[Windows Software Development Kit](https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk)
