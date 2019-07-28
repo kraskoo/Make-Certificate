@@ -1,4 +1,4 @@
-## Make-Certificate
+## Make Certificate for Windows Applications
 
 makecert /n "CN=NameOfProject" /r /pe /a sha512 /len 4096 /cy authority /sv "D:\User\Desktop\Name Of Project.pvk" "D:\User\Desktop\Name Of Project.cer"
 
